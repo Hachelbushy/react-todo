@@ -1,0 +1,32 @@
+.edit-event {
+    background: darkorange;
+    padding: 25px;
+}
+
+input{
+    border: none;
+    padding: 1vh;
+    width: 70%;
+    outline: none;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.edit-event {
+    text-align: justify;
+    padding: 20px;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin: 0% 4%;
+}
+
+button {
+    margin-top: 10px;
+    width: 100%;
+    background: darkorange;
+    border-color: white;
+    border-style: solid;
+}
